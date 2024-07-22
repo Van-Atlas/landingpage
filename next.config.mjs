@@ -1,8 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  images: {
-    domains: ["randomuser.me", "pbs.twimg.com"],
-  },
+  output: "export",
 };
 
 export default nextConfig;
