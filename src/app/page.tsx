@@ -106,12 +106,10 @@ const featureSectionProps = {
 export default async function Page() {
   return (
     <>
-      {/*       <section className="relative min-h-screen lg:pt-0 pt-20 flex justify-center items-center">
+      <NavBar />
+      <section className="relative min-h-screen lg:pt-0 pt-20 flex justify-center items-center">
         <HeroSection />
-      </section> */}
-      <div className="h-screen max-h-screen flex flex-col justify-center items-center">
-        <FeatureSection {...featureSectionProps} />
-      </div>
+      </section>
     </>
   );
 }

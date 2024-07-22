@@ -43,7 +43,7 @@ const NavBar = () => {
           VanAtlas
         </Link>
 
-        <div className="hidden md:flex items-center space-x-8">
+        {/*         <div className="hidden md:flex items-center space-x-8">
           <NavItems />
         </div>
 
@@ -66,7 +66,7 @@ const NavBar = () => {
               <AuthButtons />
             </nav>
           </SheetContent>
-        </Sheet>
+        </Sheet> */}
       </div>
     </motion.nav>
   );
