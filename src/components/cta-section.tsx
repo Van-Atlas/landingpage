@@ -15,9 +15,9 @@ const CTASection = () => {
               </h2>
               <p className="mb-8 mt-6 text-gray-600 dark:text-gray-300">
                 Join the Van Atlas community today and unlock a world of
-                resources, connections, and adventures. Whether you're a
-                seasoned van lifer or just starting out, we're here to support
-                your journey.
+                resources, connections, and adventures. Whether youre a seasoned
+                van lifer or just starting out, were here to support your
+                journey.
               </p>
               <form action="" className="mt-12">
                 <div className="relative flex items-center rounded-full border border-primary/20 bg-white p-1 px-2 shadow-md dark:border-white/10 dark:bg-dark md:p-2 lg:pr-3">

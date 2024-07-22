@@ -146,7 +146,7 @@ export default function ComingSoon() {
             transition={{ duration: 0.8, delay: 1 }}
           >
             Hilf uns, Van Atlas zu gestalten! Teile deine Ideen auf unserem
-            "Insighto"-Board.
+            Insighto-Board.
           </motion.p>
         </motion.div>
       )}
